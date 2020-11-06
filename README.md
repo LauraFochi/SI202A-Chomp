@@ -18,5 +18,7 @@ Victor Calebe Fernandes da Silva - 194664
 
 [Abrir no Colab](https://colab.research.google.com/drive/16p_c_MeCnnHS5jp8dHtl2Xg37qY_EuuC?usp=sharing) 
 
+[Atividade 5](https://github.com/LauraFochi/SI202A-Chomp/blob/main/Atividade5.ipynb)
+
 
 
