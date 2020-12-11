@@ -22,7 +22,7 @@ Victor Calebe Fernandes da Silva - 194664
 
 [Atividade 6](https://github.com/LauraFochi/SI202A-Chomp/blob/main/atividade6.ipynb)
 
-[Atividade 7](https://github.com/LauraFochi/SI202A-Chomp/blob/main/atividade7.ipynb)
+[Atividade 7](https://github.com/LauraFochi/SI202A-Chomp/blob/main/Atividade7.ipynb)
 
 
 
